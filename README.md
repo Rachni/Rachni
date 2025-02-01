@@ -41,9 +41,10 @@ I grew up building PCs, playing video games, and exploring how things work behin
 ---
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rachni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachni&theme=dracula&layout=compact" alt="Top Langs">
+</p>
+
 
 ###
 
