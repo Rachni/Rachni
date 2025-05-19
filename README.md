@@ -34,6 +34,10 @@ I grew up building PCs, playing video games, and exploring how things work behin
 ---
 
 ### 📂 My Projects
+- **[GameShelf](https://github.com/Rachni/GameShelf-Video-Game-Rating-App)**: My most challenging and rewarding project to date — Gameshelf is a full-stack web app that combines a Laravel backend, a React frontend, Tailwind CSS for styling, and external APIs to manage and explore video game collections.
+
+  It pushed me to deepen my understanding of full-stack development, handle real-world API integration, structure clean and scalable codebases, and create responsive, interactive UIs. I learned a lot about bridging front-end and back-end logic,   improving user experience, and debugging complex interactions across the stack.
+
 - **[MasqueraDB](https://github.com/Rachni/masqueraDB)**: Inspired by *Vampire: The Masquerade*, this backend project focuses on managing characters, chronicles, and player data using Java and MySQL.
 - **[Webpages](https://rachni.github.io/practice-webpages/)**: Some of the webpages I've created to improve and practice my skills.
 - **More to come!** Stay tuned as I keep exploring and building.
