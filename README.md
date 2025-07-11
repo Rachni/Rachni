@@ -1,7 +1,7 @@
 # ⌨️ Hello, I'm Anabel! 👩🏻‍💻
 
 ### About Me
-I'm a passionate **future developer** from **Spain** with a deep love for **technology**, **video games**, and **languages**. Currently, I’m studying **Web Development** and specializing in **backend technologies**, drawing from my background in **Translation and Interpretation** (English, German, and some Italian), with a focus on **video game and software localization**.
+I'm a passionate **web developer** from **Spain** with a deep love for **technology**, **video games**, and **languages**. Currently, I’m studying **Web Development** and specializing in **backend technologies**, drawing from my background in **Translation and Interpretation** (English, German, and some Italian), with a focus on **video game and software localization**.
 
 I grew up building PCs, playing video games, and exploring how things work behind the scenes. Now, I’m channeling that curiosity into **programming**.
 
